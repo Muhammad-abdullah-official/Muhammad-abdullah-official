@@ -103,7 +103,7 @@ Once a customer books a package, the system manages the **entire trip lifecycle*
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats-9y7eh4mrq.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="Abdullah's GitHub Stats" width="49%"/>
+  <img src="github-readme-stats-rifv0s6cj.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="Abdullah's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats-9y7eh4mrq.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
 </p>
 

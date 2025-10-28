@@ -103,6 +103,7 @@ Once a customer books a package, the system manages the **entire trip lifecycle*
 
 ### 📊 GitHub Insights
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="Abdullah's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&theme=radical" alt="Abdullah's GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
 </p>
@@ -113,6 +114,7 @@ Once a customer books a package, the system manages the **entire trip lifecycle*
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-abdullah-official&color=blue" alt="Profile Views"/>
 </p>
+
 
 ---
 

@@ -1,122 +1,115 @@
-<h1 align="center">Hey 👋, I'm Abdullah!</h1>
-<h3 align="center">Backend Developer | AI Integration Enthusiast | Final Year CS Student</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Rafique</h1>
+<h3 align="center">Backend Developer · ASP.NET Core (.NET 8) & Node.js · AI Integration</h3>
 
----
-
-### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-rafique-a88900269/" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/abdullah-rafique-a88900269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:amabdullah643@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?logo=amazonaws&logoColor=white" alt="AWS SAA"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-abdullah-official&color=0A66C2&label=Profile%20Views" alt="Profile Views"/>
 </p>
-
-
 
 ---
 
 ### 🚀 About Me
 
-🎓 I'm a **Backend Developer & AI Enthusiast** currently in my **final semester of BSCS**.  
-💡 With **6 months of backend experience** and **1+ year of continuous project-based practice**, I specialize in **Node.js**, **Express.js**, and **MongoDB**.  
-🤖 Passionate about building **AI-integrated**, **scalable**, and **multilingual systems** that make technology accessible for everyone.  
-🧠 Skilled in **C++**, **Java (OOP)**, **Python**, **SQL**, and familiar with **Machine Learning (Supervised & Unsupervised)** concepts.  
-🌍 I’m always exploring how **AI + backend engineering** can create seamless, human-friendly digital experiences.
+🎯 **Backend Developer** building production REST APIs with **ASP.NET Core (.NET 8 LTS)** and **Node.js**.
+🏗️ Hands-on with **CQRS**, **Vertical Slice Architecture**, **Modular Monolith**, and **Rich Domain Modeling**.
+🤖 Strong interest in **AI integration** — OpenAI, vector search, and multilingual systems.
+☁️ **AWS Certified Solutions Architect – Associate**, with experience deploying on AWS EC2 (Ubuntu) + PM2.
+🎓 **BS Computer Science**, Bahria University, Karachi.
 
 ---
 
-### 🕋 Featured Project: **PilgrimPlanner**
+### 💼 Experience
 
-> 🧭 An AI-powered, multilingual **Hajj & Umrah travel management platform** designed for **pilgrims** and **travel agents/agencies**.
+**Junior Backend Developer** · Quanrio LLP — *Feb 2026 – Present*
+- Building the backend for **MetaMind (Mawhiba, Saudi Arabia)** on **ASP.NET Core (.NET 8)** using a **Modular Monolith + Vertical Slice Architecture** (CQRS, Rich Domain Model) with **PostgreSQL**.
+- Maintaining REST APIs in **Node.js + MongoDB**; managing AWS EC2 (Ubuntu) deployments with PM2.
 
-**🧩 Overview:**  
-PilgrimPlanner connects customers with travel agents who manage and sell their **Hajj & Umrah packages**.  
-Once a customer books a package, the system manages the **entire trip lifecycle** — from bookings to itineraries and communication — in multiple languages.
-
-**✨ Key Features:**
-- 🧳 **Trip, Booking & Vendor (Travel Agent) Management**  
-- 🧑‍💼 **Admin Panel** for managing registered travel agencies and monitoring vendor activities  
-- 💬 **Customer–Vendor Communication System**  
-- 🗣 **AI-Powered Voice Assistant** for multilingual voice-based navigation  
-- 🔔 **In-App Notifications** with dynamic message translation  
-- 🌐 **Supports English, Urdu, Roman Urdu, and Arabic** via **OpenAI Translation API**
-
-**🧠 Tech Stack:**  
-`Node.js` · `Express.js` · `MongoDB` · `Redis` · `FastAPI (AI Layer)` · `OpenAI API`  
-`React Native` · `Next.js` · `Render` · `Vercel` · `Cloudinary`
+**Backend Developer Intern** · Quanrio LLP — *Nov 2025 – Feb 2026*
+- Built REST APIs for **PenPals** using **Node.js + Fastify**; deployed on AWS EC2 with PM2.
 
 ---
 
-### 💻 Practice Projects
+### 🕋 Featured Project — PilgrimPlanner (FYP)
 
-- 🏥 **Hospital Management System**  
-  Full CRUD operations, JWT-based authentication, and role-based user access.
+> AI-powered, multilingual **Hajj & Umrah travel management platform** connecting pilgrims with travel agents/agencies — full backend ownership.
 
-- 📦 **Inventory Management System**  
-  Real-time stock updates, supplier tracking, and dashboard analytics.
+**Key Features**
+- 🧳 Trip, Booking & Vendor (Travel Agent) management
+- 🧑‍💼 Admin panel for agencies & vendor monitoring
+- 💬 Customer–Vendor communication system
+- 🗣️ AI voice assistant (Whisper STT + TTS) for multilingual navigation
+- 🌐 English, Urdu, Roman Urdu & Arabic support via OpenAI translation
 
-- ✍️ **BlogsApp**  
-  RESTful blog API with user authentication, image uploads, and comments.
-
----
-
-### ⚙️ Technical Skills
-
-**Programming Languages:**  
-`C++` · `Java` (OOP) · `Python` · `JavaScript` · `SQL`
-
-**Frameworks & Libraries:**  
-`Node.js` · `Express.js` · `FastAPI` · `React Native` · `Next.js` · `React.js`
-
-**Databases:**  
-`MongoDB` · `MySQL` · `Redis` · `PostgreSQL`
-
-**AI & Data Science Tools:**  
-`OpenAI API` · `Whisper STT` · `TTS` · `GPT Models` · `Machine Learning (Supervised/Unsupervised)`
-
-**DevOps & Deployment:**  
-`Render` · `Vercel` · `Cloudinary` · `GitHub Actions`
-
-**Core Concepts:**  
-`RESTful APIs` · `Scalable Backend Design` · `Authentication & Authorization`  
-`Multilingual Integration` · `Data Structures & Algorithms`
+**Tech Stack**
+`Node.js` · `Fastify` · `MongoDB` · `Redis` · `Qdrant (Vector DB)` · `FastAPI` · `OpenAI API` · `Cloudinary` · `i18n`
 
 ---
 
-### 💡 What I Can Do
-✅ Design and build **scalable, AI-powered backend systems**  
-✅ Develop **secure REST APIs** with multilingual and caching layers (Redis)  
-✅ Integrate **voice assistants** and **AI translation** into real-world applications  
-✅ Build **mobile + web frontends** using **React Native** and **Next.js**  
-✅ Deploy, monitor, and optimize full-stack systems on **Render & Vercel**
+### 🛠️ Other Projects
+
+- 🏥 **Hospital Management System** — CRUD APIs, JWT auth, role-based access
+- 📦 **Inventory Management System** — real-time stock updates & supplier tracking
+- ✍️ **BlogsApp** — RESTful blog API with auth, image uploads & comments
 
 ---
 
-### ⚡ Fun Facts
-- 🧩 I enjoy turning complex backend logic into clean, reusable APIs  
-- 💬 I’m passionate about **voice interaction and multilingual accessibility**  
-- 🎧 Lo-Fi + Debugging = Perfect combo for late-night coding sessions ☕
+### ⚙️ Tech Stack
+
+**Languages**
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+
+**Backend & Frameworks**
+![.NET](https://img.shields.io/badge/ASP.NET%20Core%20(.NET%208)-512BD4?logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
+
+**Architecture & Concepts**
+`CQRS` · `Vertical Slice Architecture` · `Modular Monolith` · `Rich Domain Model` · `REST APIs` · `Auth (JWT)` · `Multilingual / i18n`
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+**AI & Tools**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+`Whisper STT` · `TTS` · `Vector Search` · `Cloudinary`
 
 ---
 
-### 📊 GitHub Insights
+### 🏅 Certifications
+
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services
+- **AWS Cloud Practitioner Essentials** — Amazon Web Services (Foundational)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-9y7eh4mrq.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="Abdullah's GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats-9y7eh4mrq.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats-9y7eh4mrq.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
 </p>
 
-
-
 ---
 
-### ✨ Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-abdullah-official&color=blue" alt="Profile Views"/>
-</p>
-
-
----
-
-<h4 align="center">🚀 “Building the future of multilingual & AI-driven backend systems.”</h4>
+<h4 align="center">⚡ Building scalable, AI-driven backend systems.</h4>

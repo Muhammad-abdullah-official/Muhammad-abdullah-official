@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Rafique</h1>
-<h3 align="center">Backend Developer · ASP.NET Core (.NET 8) & Node.js · AI Integration</h3>
+<h3 align="center">Backend Developer · ASP.NET Core & Node.js · AI Integration</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-rafique-a88900269/">
@@ -48,14 +48,6 @@
 
 **Tech Stack**
 `Node.js` · `Fastify` · `MongoDB` · `Redis` · `Qdrant (Vector DB)` · `FastAPI` · `OpenAI API` · `Cloudinary` · `i18n`
-
----
-
-### 🛠️ Personal Projects
-
-- 🏥 **Hospital Management System** — CRUD APIs, JWT auth, role-based access
-- 📦 **Inventory Management System** — real-time stock updates & supplier tracking
-- ✍️ **BlogsApp** — RESTful blog API with auth, image uploads & comments
 
 ---
 

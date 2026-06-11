@@ -51,7 +51,7 @@
 
 ---
 
-### 🛠️ Other Projects
+### 🛠️ Personal Projects
 
 - 🏥 **Hospital Management System** — CRUD APIs, JWT auth, role-based access
 - 📦 **Inventory Management System** — real-time stock updates & supplier tracking
@@ -59,40 +59,61 @@
 
 ---
 
-### ⚙️ Tech Stack
+<h3 align="center">⚙️ Tech Stack</h3>
 
-**Languages**
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
 
-**Backend & Frameworks**
-![.NET](https://img.shields.io/badge/ASP.NET%20Core%20(.NET%208)-512BD4?logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+<p align="center"><strong>Backend & Frameworks</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core%20(.NET%208)-512BD4?logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white" alt="Fastify"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
+<p align="center"><strong>Databases</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white" alt="Qdrant"/>
+</p>
 
-**Architecture & Concepts**
-`CQRS` · `Vertical Slice Architecture` · `Modular Monolith` · `Rich Domain Model` · `REST APIs` · `Auth (JWT)` · `Multilingual / i18n`
+<p align="center"><strong>Architecture & Concepts</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CQRS-555?style=flat-square" alt="CQRS"/>
+  <img src="https://img.shields.io/badge/Vertical%20Slice%20Architecture-555?style=flat-square" alt="Vertical Slice"/>
+  <img src="https://img.shields.io/badge/Modular%20Monolith-555?style=flat-square" alt="Modular Monolith"/>
+  <img src="https://img.shields.io/badge/Rich%20Domain%20Model-555?style=flat-square" alt="Rich Domain Model"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-555?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-555?style=flat-square" alt="JWT Auth"/>
+  <img src="https://img.shields.io/badge/Multilingual%20%2F%20i18n-555?style=flat-square" alt="i18n"/>
+</p>
 
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white)
-![Linux](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p align="center"><strong>Cloud & DevOps</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazonec2&logoColor=white" alt="AWS EC2"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white" alt="PM2"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+</p>
 
-**AI & Tools**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-`Whisper STT` · `TTS` · `Vector Search` · `Cloudinary`
+<p align="center"><strong>AI & Tools</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Whisper%20STT-555?style=flat-square" alt="Whisper STT"/>
+  <img src="https://img.shields.io/badge/TTS-555?style=flat-square" alt="TTS"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-555?style=flat-square" alt="Vector Search"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+</p>
 
 ---
 
@@ -105,8 +126,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="49%"/>
@@ -115,7 +134,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-abdullah-official&theme=radical" alt="GitHub Streak" width="60%"/>
 </p>
-
 
 ---
 

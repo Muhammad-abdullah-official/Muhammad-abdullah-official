@@ -105,10 +105,17 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-9y7eh4mrq.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats-9y7eh4mrq.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="49%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-abdullah-official&theme=radical" alt="GitHub Streak" width="60%"/>
+</p>
+
 
 ---
 

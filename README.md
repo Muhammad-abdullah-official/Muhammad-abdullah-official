@@ -126,10 +126,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="49%"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="195" src="https://github-readme-stats.vercel.app/api?username=Muhammad-abdullah-official&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-abdullah-official&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-abdullah-official&theme=radical" alt="GitHub Streak" width="60%"/>
